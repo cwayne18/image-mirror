@@ -578,4 +578,7 @@ registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-p
 registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.32.0
 registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.32.1
 registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.32.2
+registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.32.3
 registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.33.0
+registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.33.1
+registry.k8s.io/cloud-pv-vsphere/cloud-provider-vsphere rancher/mirrored-cloud-provider-vsphere v1.34.0
